@@ -108,26 +108,17 @@ Currently  : Building production-grade backend systems & AI-powered applications
 
 <div align="center">
 
-<a href="https://github.com/vpraveen0501-cyber/pky-ai-assistant">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vpraveen0501-cyber&repo=pky-ai-assistant&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=6C63FF&text_color=c9d1d9" />
-</a>&nbsp;
-<a href="https://github.com/vpraveen0501-cyber/fastapi-redis-jwt-backend">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vpraveen0501-cyber&repo=fastapi-redis-jwt-backend&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=6C63FF&text_color=c9d1d9" />
-</a>
-
-<a href="https://github.com/vpraveen0501-cyber/envguard-cli-scanner">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vpraveen0501-cyber&repo=envguard-cli-scanner&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=6C63FF&text_color=c9d1d9" />
-</a>&nbsp;
-<a href="https://github.com/vpraveen0501-cyber/shield-vault-cli">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vpraveen0501-cyber&repo=shield-vault-cli&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=6C63FF&text_color=c9d1d9" />
-</a>
-
-<a href="https://github.com/vpraveen0501-cyber/localmind-cli">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vpraveen0501-cyber&repo=localmind-cli&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=6C63FF&text_color=c9d1d9" />
-</a>&nbsp;
-<a href="https://github.com/vpraveen0501-cyber/sentinel-data-pipeline">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vpraveen0501-cyber&repo=sentinel-data-pipeline&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=6C63FF&text_color=c9d1d9" />
-</a>
+| 🏷️ Project | 📝 Description | 🛠️ Stack | 🔗 |
+|:---|:---|:---|:---:|
+| **pky-ai-assistant** | Secure voice-first multi-agent AI — Android + FastAPI/LangGraph + GraphRAG (Neo4j + ChromaDB) + LiveKit WebRTC | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | [→](https://github.com/vpraveen0501-cyber/pky-ai-assistant) |
+| **fastapi-redis-jwt-backend** | Production-grade REST API — FastAPI + JWT auth + Redis caching + RBAC + token rotation | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) | [→](https://github.com/vpraveen0501-cyber/fastapi-redis-jwt-backend) |
+| **envguard-cli-scanner** | High-performance CLI secret scanner — Go + concurrent file walking + YAML rules engine | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Security](https://img.shields.io/badge/Security-FF0000?style=flat-square&logo=shield&logoColor=white) | [→](https://github.com/vpraveen0501-cyber/envguard-cli-scanner) |
+| **shield-vault-cli** | Zero-knowledge credential manager — Argon2id + AES-256-GCM + TOTP + fuzzy search | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Encryption](https://img.shields.io/badge/AES--256-6A0DAD?style=flat-square&logoColor=white) | [→](https://github.com/vpraveen0501-cyber/shield-vault-cli) |
+| **localmind-cli** | Offline RAG chatbot CLI — ChromaDB vector search + Ollama LLM + conversation memory | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=flat-square&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white) | [→](https://github.com/vpraveen0501-cyber/localmind-cli) |
+| **sentinel-data-pipeline** | Polars-powered ETL — DuckDB sink + data validation + real-time monitoring | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black) ![Polars](https://img.shields.io/badge/Polars-CD792C?style=flat-square&logoColor=white) | [→](https://github.com/vpraveen0501-cyber/sentinel-data-pipeline) |
+| **devops-actions-security-scanner** | GitHub Action — automated Docker image scanning with Trivy + webhook alerts | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aquasec&logoColor=white) | [→](https://github.com/vpraveen0501-cyber/devops-actions-security-scanner) |
+| **kinetic-dashboard** | Physics-driven dashboard — Matter.js + draggable widgets + Next.js + real-time streaming | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) | [→](https://github.com/vpraveen0501-cyber/kinetic-dashboard) |
+| **pulsevault-android-privacy** | Privacy-first health tracker — SQLCipher + biometric auth + AES encrypted export | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) | [→](https://github.com/vpraveen0501-cyber/pulsevault-android-privacy) |
 
 </div>
 
@@ -208,7 +199,7 @@ Tamil Nadu · Networking, TCP/IP, CCNA fundamentals
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=vpraveen0501-cyber&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=vpraveen0501-cyber&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies"/>
 
 </div>
 
