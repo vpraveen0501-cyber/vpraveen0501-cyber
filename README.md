@@ -1,10 +1,15 @@
-<!-- Animated Wave Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Praveen%20Kumar%20V&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Senior%20Analyst%20%7C%20Java%20%26%20Spring%20Boot%20Developer%20%7C%20SDE&descAlignY=55&descAlign=50&descSize=18" />
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                          HEADER SECTION                              -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<!-- Enhanced Typing Animation — 4 lines, bold, vivid purple -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=110&lines=🚀+Building+Scalable+Backend+Systems;☕+Java+%26+Spring+Boot+Specialist;🔒+Security+%7C+DevOps+%7C+Cloud+%7C+AWS;🎯+4%2B+Years+Enterprise+Software+Engineer" alt="Typing SVG" />
+# Hey there! 👋 I'm **Praveen Kumar V**
+
+### 🚀 Senior Analyst @ HCL Technologies | Java & Spring Boot Developer | SDE
+
+<!-- Typing Animation — 4 vivid lines, no emoji in URL params -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=110&lines=Building+Scalable+Backend+Systems+%F0%9F%92%BB;Java+%26+Spring+Boot+Specialist+%E2%98%95;Security+%7C+DevOps+%7C+Cloud+%7C+AWS+%F0%9F%94%92;4%2B+Years+Enterprise+Software+Engineer+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
 
 <br/>
 
@@ -20,6 +25,10 @@
 </div>
 
 ---
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                          ABOUT SECTION                               -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 ## 🧑‍💻 About Me
 
@@ -37,6 +46,10 @@ Passion    : Clean code, scalable architectures, and continuous improvement
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                        TECH STACK SECTION                            -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
@@ -47,7 +60,7 @@ Passion    : Clean code, scalable architectures, and continuous improvement
 ### 🧩 Frameworks & Cloud
 <img src="https://skillicons.dev/icons?i=spring,django,aws,docker&theme=dark" />
 
-### 🗄️ Databases & DevOps Tools
+### 🗄️ Databases & Tools
 <img src="https://skillicons.dev/icons?i=postgresql,git,github,linux,vscode&theme=dark" />
 
 ### 🤖 AI / ML
@@ -68,6 +81,10 @@ Passion    : Clean code, scalable architectures, and continuous improvement
 </div>
 
 ---
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                       EXPERIENCE SECTION                             -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 ## 💼 Professional Experience
 
@@ -112,6 +129,10 @@ Passion    : Clean code, scalable architectures, and continuous improvement
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                       EDUCATION SECTION                              -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
 ## 🎓 Education
 
 | Degree | Institution | Year | Grade |
@@ -125,6 +146,10 @@ Passion    : Clean code, scalable architectures, and continuous improvement
 **Notable Coursework:** Software Architecture · Software Security · Software Testing & QA · Advanced Database · Advanced OS · Machine Learning · UI Design · Requirements Engineering
 
 ---
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                       PROJECTS SECTION                               -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 ## 🔬 Featured Projects
 
@@ -181,6 +206,10 @@ Investigated noise characteristics in double-gate MOS-HEMT semiconductor devices
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                    CERTIFICATIONS SECTION                            -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
 ## 📜 Licenses & Certifications
 
 | Certification | Issuer | Date |
@@ -194,6 +223,10 @@ Investigated noise characteristics in double-gate MOS-HEMT semiconductor devices
 | 🌐 **CCNA Routing & Switching** | Cisco Networking Academy | Jun 2019 |
 
 ---
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                      GITHUB STATS SECTION                            -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 ## 📊 GitHub Stats
 
@@ -209,12 +242,15 @@ Investigated noise characteristics in double-gate MOS-HEMT semiconductor devices
 
 <br/><br/>
 
-<!-- GitHub Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vpraveen0501-cyber&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6C63FF&line=6C63FF&point=FF6B6B&area=true&area_color=6C63FF" alt="Contribution Graph" width="100%"/>
 
 </div>
 
 ---
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                        TROPHIES SECTION                              -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 ## 🏆 GitHub Trophies
 
@@ -226,6 +262,10 @@ Investigated noise characteristics in double-gate MOS-HEMT semiconductor devices
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                       LANGUAGES SECTION                              -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
 ## 🌐 Languages
 
 | Language | Proficiency |
@@ -234,6 +274,10 @@ Investigated noise characteristics in double-gate MOS-HEMT semiconductor devices
 | 🇮🇳 Tamil | Native / Bilingual Proficiency |
 
 ---
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--               LINKEDIN SKILL ASSESSMENTS SECTION                     -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 ## ✅ LinkedIn Skill Assessments Passed
 
@@ -248,6 +292,10 @@ Investigated noise characteristics in double-gate MOS-HEMT semiconductor devices
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                         FOOTER SECTION                               -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
 ### 🤝 Let's Connect!
@@ -256,13 +304,10 @@ _I'm always open to interesting conversations, collaboration opportunities, and 
 
 <a href="https://www.linkedin.com/in/praveen-kumar-v-05011998/"><img src="https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
-<br/><br/>
+---
 
 <img src="https://komarev.com/ghpvc/?username=vpraveen0501-cyber&style=for-the-badge&color=6C63FF" alt="Profile Views"/>
 
 <sub>⭐ From <a href="https://github.com/vpraveen0501-cyber">Praveen Kumar V</a></sub>
 
 </div>
-
-<!-- Animated Wave Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
