@@ -27,16 +27,7 @@
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook-alt.svg" alt="Facebook" height="32" width="42"/>
 </a>
 
-<br/><br/>
-
-<p>
-  <a href="mailto:vpraveen0501@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>&nbsp;
-  <a href="https://github.com/vpraveen0501-cyber">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+<br/>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=vpraveen0501-cyber&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS"/>
@@ -294,12 +285,6 @@ _Open to backend engineering roles, AI/ML collaborations, open-source contributi
 </a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.facebook.com/praveen.kumar.980326" target="_blank" title="Facebook">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook-alt.svg" alt="Facebook" height="40" width="52"/>
-</a>
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/praveen-kumar-v-05011998/">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <br/><br/>
