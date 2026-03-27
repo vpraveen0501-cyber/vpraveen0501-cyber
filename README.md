@@ -4,186 +4,166 @@
 
 <div align="center">
 
-# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&duration=1&pause=99999&color=6C63FF&center=true&vCenter=true&repeat=false&width=500&height=50&lines=Hey+there!+%F0%9F%91%8B+I'm+Praveen+Kumar+V" alt="Hey there! I'm Praveen Kumar V" />
+# Hey there! 👋 I'm **Praveen Kumar V**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=1&pause=99999&color=58A6FF&center=true&vCenter=true&repeat=false&width=700&height=30&lines=%F0%9F%9A%80+Senior+Analyst+%40+HCL+Technologies+%7C+Java+%26+Spring+Boot+Developer+%7C+SDE" alt="Role" />
-
-<br/>
-
-<!-- Animated Typing — cycling 4 lines with vivid cyan-purple colors -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=45&lines=Building+Scalable+Backend+Systems+%F0%9F%92%BB;Java+%26+Spring+Boot+Specialist+%E2%98%95;Security+%7C+DevOps+%7C+Cloud+%7C+AWS+%F0%9F%94%92;4%2B+Years+Enterprise+Software+Engineer+%E2%9A%99%EF%B8%8F;Clean+Code+%7C+Agile+%7C+Microservices+%F0%9F%94%A7" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=45&lines=Building+Scalable+Backend+Systems+%F0%9F%92%BB;Java+%26+Spring+Boot+Specialist+%E2%98%95;Security+%7C+DevOps+%7C+Cloud+%7C+AWS+%F0%9F%94%92;AI+%7C+RAG+%7C+Multi-Agent+Systems+%F0%9F%A4%96;4%2B+Years+Enterprise+Software+Engineer+%E2%9A%99%EF%B8%8F" alt="Typing Animation" />
 
 <br/>
 
-<!-- Social Badges -->
 <p>
   <a href="https://www.linkedin.com/in/praveen-kumar-v-05011998/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>&nbsp;
   <a href="mailto:vpraveen0501@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>&nbsp;
   <a href="https://github.com/vpraveen0501-cyber">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
-<!-- Profile Views + Status badges -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=vpraveen0501-cyber&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=vpraveen0501-cyber&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Focus-Backend_Engineering-00D4FF?style=for-the-badge" alt="Focus"/>
+  <img src="https://img.shields.io/badge/Focus-Backend+%26+AI+Engineering-00D4FF?style=for-the-badge"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Lives-India-FF6B6B?style=for-the-badge" alt="Lives"/>
+  <img src="https://img.shields.io/badge/Open_to-Collaborations-FF6B6B?style=for-the-badge"/>
 </p>
 
 </div>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                          ABOUT SECTION                               -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 ## 🧑‍💻 About Me
 
 ```yaml
 Name       : Praveen Kumar V
-Pronouns   : He / Him
-Location   : Tiruvannamalai, Tamil Nadu, India
 Role       : Senior Software Analyst @ HCL Technologies
+Location   : Tiruvannamalai, Tamil Nadu, India
 Education  : M.E. Software Engineering (CEG, Anna University) | B.E. EEE
-Experience : 4+ Years in Enterprise Software Development & Quality Engineering
-Passion    : Clean code, scalable architectures, and continuous improvement
-Currently  : Building enterprise-grade Java/Spring Boot systems @ HCL
+Experience : 4+ Years · Enterprise Java/Spring Boot · DevOps · AWS · AI/ML
+Interests  : Scalable Backend · Multi-Agent AI · Security Engineering · Open Source
+Currently  : Building production-grade backend systems & AI-powered applications
 ```
 
-> I'm a **proactive, result-oriented professional** specializing in Java and Spring Boot development. With 4+ years of experience spanning software development, quality assurance, and DevOps, I deliver reliable, high-performing products with a strong focus on customer satisfaction. I thrive in Agile environments and have a proven track record of on-time delivery and continuous process improvement.
+> **Proactive, result-oriented engineer** with 4+ years building enterprise-scale Java/Spring Boot systems at HCL Technologies. I design microservices, CI/CD pipelines, and AI-integrated backends. Passionate about clean code, security-first engineering, and developer tooling.
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                        TECH STACK SECTION                            -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-## 🛠️ Tech Stack & Tools
+## 🔥 What I Build
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=java&theme=dark" width="48"/><br/><sub><b>Java</b></sub>
-</td>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=python&theme=dark" width="48"/><br/><sub><b>Python</b></sub>
-</td>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=spring&theme=dark" width="48"/><br/><sub><b>Spring Boot</b></sub>
-</td>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=aws&theme=dark" width="48"/><br/><sub><b>AWS</b></sub>
-</td>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48"/><br/><sub><b>Docker</b></sub>
-</td>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=postgresql&theme=dark" width="48"/><br/><sub><b>PostgreSQL</b></sub>
-</td>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=git&theme=dark" width="48"/><sub><b>Git</b></sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="48"/><br/><sub><b>C++</b></sub>
-</td>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=django&theme=dark" width="48"/><br/><sub><b>Django</b></sub>
-</td>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="48"/><br/><sub><b>TensorFlow</b></sub>
-</td>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="48"/><br/><sub><b>PyTorch</b></sub>
-</td>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=linux&theme=dark" width="48"/><br/><sub><b>Linux</b></sub>
-</td>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=github&theme=dark" width="48"/><br/><sub><b>GitHub</b></sub>
-</td>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48"/><br/><sub><b>VS Code</b></sub>
-</td>
-</tr>
-</table>
-
-<br/>
-
-| **Category** | **Technologies** |
-|:---|:---|
-| **Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white) |
-| **Frameworks** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=flat-square&logo=fastapi&logoColor=white) |
-| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![AWS IAM](https://img.shields.io/badge/AWS_IAM-FF9900?style=flat-square&logo=amazoniam&logoColor=white) ![DevOps](https://img.shields.io/badge/DevOps-0A0A0A?style=flat-square&logo=devdotto&logoColor=white) |
-| **Databases** | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
-| **Tools & PM** | ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Kanban](https://img.shields.io/badge/Kanban-0079BF?style=flat-square&logo=trello&logoColor=white) ![SAFe](https://img.shields.io/badge/SAFe-FFB900?style=flat-square&logoColor=black) |
-| **Methodologies** | ![Agile](https://img.shields.io/badge/Agile-2496ED?style=flat-square&logoColor=white) ![Six Sigma](https://img.shields.io/badge/Lean_Six_Sigma-00B140?style=flat-square&logoColor=white) ![SDLC](https://img.shields.io/badge/SDLC-6A0DAD?style=flat-square&logoColor=white) |
-| **AI / ML** | ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![AI](https://img.shields.io/badge/AI-412991?style=flat-square&logo=openai&logoColor=white) ![CNN](https://img.shields.io/badge/CNN-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) |
+| 🏗️ Backend & APIs | 🔒 Security Tools | 🤖 AI / ML | 📱 Mobile | 📊 Data |
+|:---:|:---:|:---:|:---:|:---:|
+| FastAPI · Spring Boot | CLI scanners · Vaults | RAG · LangGraph · CNN | Android · Kotlin | ETL · DuckDB · Polars |
+| Redis · JWT · RBAC | AES-256 · TOTP · Argon2 | ChromaDB · Ollama · Neo4j | SQLCipher · Biometrics | Real-time monitoring |
+| Microservices · Docker | Trivy · GitHub Actions | Multi-agent · WebRTC | Privacy-first apps | Data validation |
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                       EXPERIENCE SECTION                             -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="45"/><br/><sub><b>Java</b></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="45"/><br/><sub><b>Python</b></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=go&theme=dark" width="45"/><br/><sub><b>Go</b></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=kotlin&theme=dark" width="45"/><br/><sub><b>Kotlin</b></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=typescript&theme=dark" width="45"/><br/><sub><b>TypeScript</b></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=spring&theme=dark" width="45"/><br/><sub><b>Spring Boot</b></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="45"/><br/><sub><b>FastAPI</b></sub></td>
+</tr>
+<tr>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=aws&theme=dark" width="45"/><br/><sub><b>AWS</b></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="45"/><br/><sub><b>Docker</b></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=redis&theme=dark" width="45"/><br/><sub><b>Redis</b></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=postgresql&theme=dark" width="45"/><br/><sub><b>PostgreSQL</b></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="45"/><br/><sub><b>TensorFlow</b></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="45"/><br/><sub><b>Git</b></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="45"/><br/><sub><b>Linux</b></sub></td>
+</tr>
+</table>
+
+<br/>
+
+| **Area** | **Technologies** |
+|:---|:---|
+| **Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
+| **Backend** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=flat-square&logo=fastapi&logoColor=white) |
+| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white) ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black) |
+| **AI / ML** | ![LangChain](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF4B4B?style=flat-square&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white) |
+| **Security** | ![Argon2](https://img.shields.io/badge/Argon2id-FF0000?style=flat-square&logoColor=white) ![AES‑256](https://img.shields.io/badge/AES--256--GCM-6A0DAD?style=flat-square&logoColor=white) ![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aquasec&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) |
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/vpraveen0501-cyber/pky-ai-assistant">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vpraveen0501-cyber&repo=pky-ai-assistant&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=6C63FF&text_color=c9d1d9" />
+</a>&nbsp;
+<a href="https://github.com/vpraveen0501-cyber/fastapi-redis-jwt-backend">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vpraveen0501-cyber&repo=fastapi-redis-jwt-backend&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=6C63FF&text_color=c9d1d9" />
+</a>
+
+<a href="https://github.com/vpraveen0501-cyber/envguard-cli-scanner">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vpraveen0501-cyber&repo=envguard-cli-scanner&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=6C63FF&text_color=c9d1d9" />
+</a>&nbsp;
+<a href="https://github.com/vpraveen0501-cyber/shield-vault-cli">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vpraveen0501-cyber&repo=shield-vault-cli&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=6C63FF&text_color=c9d1d9" />
+</a>
+
+<a href="https://github.com/vpraveen0501-cyber/localmind-cli">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vpraveen0501-cyber&repo=localmind-cli&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=6C63FF&text_color=c9d1d9" />
+</a>&nbsp;
+<a href="https://github.com/vpraveen0501-cyber/sentinel-data-pipeline">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vpraveen0501-cyber&repo=sentinel-data-pipeline&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=6C63FF&text_color=c9d1d9" />
+</a>
+
+</div>
+
+---
 
 ## 💼 Professional Experience
 
 ### <img src="https://img.shields.io/badge/HCL_Technologies-0071CE?style=flat-square&logoColor=white" /> &nbsp;Full-time · 4 yrs 8 mos
 
 <table>
-<tr>
-<td width="30">🔹</td>
-<td>
+<tr><td width="30">🔹</td><td>
 
-**Senior Software Analyst** &nbsp;·&nbsp; _Feb 2022 – Present (4 yrs 2 mos)_
-- Chennai, Tamil Nadu, India · On-site
-- **Key Skills:** DevOps · Agile Development · AWS · Spring Boot · Java · Configuration Management · Jira
+**Senior Software Analyst** &nbsp;·&nbsp; _Feb 2022 – Present_
+Chennai, Tamil Nadu · On-site &nbsp;|&nbsp; **Key Skills:** DevOps · AWS · Spring Boot · Java · Agile · Configuration Management · Jira
 
-</td>
-</tr>
-<tr>
-<td>🔹</td>
-<td>
+</td></tr>
+<tr><td>🔹</td><td>
 
-**Senior Software Engineer** &nbsp;·&nbsp; _Aug 2021 – Feb 2022 (7 mos)_
-- **Key Skills:** Microservices · Algorithms · Core Java · OOP · Data Structures
+**Senior Software Engineer** &nbsp;·&nbsp; _Aug 2021 – Feb 2022_
+**Key Skills:** Microservices · Core Java · OOP · Data Structures · Algorithms
 
-</td>
-</tr>
+</td></tr>
 </table>
 
 ### <img src="https://img.shields.io/badge/BSNL-FF6F00?style=flat-square&logoColor=white" /> &nbsp;Internship · 5 mos
 
 <table>
-<tr>
-<td width="30">🔹</td>
-<td>
+<tr><td width="30">🔹</td><td>
 
 **BSNL Certified Summer Vocational Training** &nbsp;·&nbsp; _May 2018 – Sep 2018_
-- Tamil Nadu, India · Networking, TCP/IP, and CCNA fundamentals
+Tamil Nadu · Networking, TCP/IP, CCNA fundamentals
 
-</td>
-</tr>
+</td></tr>
 </table>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                       EDUCATION SECTION                              -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 ## 🎓 Education
 
@@ -193,117 +173,46 @@ Currently  : Building enterprise-grade Java/Spring Boot systems @ HCL
 | **B.E. Electrical, Electronics & Communication** | SKP Engineering College | 2015 – 2019 | **8.2** |
 | **DSA & System Design** | Scaler Academy | 2023 – 2025 | — |
 
-> 🏅 Graduated M.E. with **Honors** — Coordinator of academic societies
-
-**Notable Coursework:** Software Architecture · Software Security · Software Testing & QA · Advanced Database · Advanced OS · Machine Learning · UI Design · Requirements Engineering
+> 🏅 M.E. with **Honors** · **Notable Coursework:** Software Architecture · Software Security · Software Testing & QA · Advanced Database · Advanced OS · Machine Learning
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                       PROJECTS SECTION                               -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-## 🔬 Featured Projects
-
-<details>
-<summary><strong>🧩 Debugging & Optimizing Massively Parallel Applications</strong> &nbsp;·&nbsp; <em>Aug 2020 – Apr 2021</em></summary>
-<br/>
-
-> **Associated with:** College of Engineering, Guindy
-
-Microservice systems are inherently complex due to their distributed runtime environments and inter-service communications. This research project tackled the problem of automatically reproducing failures and diagnosing root causes in containerized microservice architectures.
-
-**Highlights:**
-- Designed a scalable approach for fault isolation in microservice runtimes
-- Implemented delta-debugging techniques to identify failure-inducing changes
-- Demonstrated efficient root-cause analysis with optimized infrastructure resource usage
-
-**Tech Stack:** `Microservices` · `Docker` · `Debugging` · `Distributed Systems`
-
-</details>
-
-<details>
-<summary><strong>🤖 Face Detection Using CNN (Python)</strong> &nbsp;·&nbsp; <em>Jan 2021 – Mar 2021</em></summary>
-<br/>
-
-> **Associated with:** College of Engineering, Guindy
-
-Built a Convolutional Neural Network model for face recognition using Python. Trained on a dataset of cropped face images from 16 individuals, the model accurately classifies unseen test images.
-
-**Highlights:**
-- Implemented CNN architecture from scratch for facial recognition
-- Achieved high accuracy on unseen test data
-- Managed complete ML pipeline: data preprocessing → model training → evaluation
-
-**Tech Stack:** `Python` · `CNN` · `TensorFlow/Keras` · `OpenCV`
-
-</details>
-
-<details>
-<summary><strong>📡 Noise Performance of DG-MOS-HEMT Using Different Barrier Layers</strong> &nbsp;·&nbsp; <em>Jan 2019 – Apr 2019</em></summary>
-<br/>
-
-> **Associated with:** SKP Engineering College
-
-Investigated noise characteristics in double-gate MOS-HEMT semiconductor devices. Analyzed spectral noise density as a function of gate voltage, frequency, drain voltage, drain current, and gate length.
-
-**Highlights:**
-- Studied carrier fluctuation effects at semiconductor/insulator interfaces
-- Characterized noise performance across multiple device parameters
-- Provided insights for low-noise device design optimization
-
-**Tech Stack:** `MATLAB` · `Semiconductor Physics` · `Signal Processing`
-
-</details>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                    CERTIFICATIONS SECTION                            -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-## 📜 Licenses & Certifications
-
-| Certification | Issuer | Date |
-|:---|:---|:---:|
-| 🏆 **Lean Six Sigma Green Belt (ICGB)** | HCLTech | Feb 2022 |
-| 🤖 **AI Face Detection using Python** | HCL GUVI | Apr 2021 |
-| 📊 **Business Analysis** | Simplilearn | Aug 2021 |
-| 🐍 **Python for Beginners** | Udemy | May 2021 |
-| 💡 **Self Taught Programmer** | Udemy | Jun 2020 |
-| 🔒 **Cisco Cybersecurity Specialist** | Cisco Networking Academy | Jun 2019 |
-| 🌐 **CCNA Routing & Switching** | Cisco Networking Academy | Jun 2019 |
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                      GITHUB STATS SECTION                            -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vpraveen0501-cyber&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00D4FF&icon_color=6C63FF&text_color=c9d1d9&border_radius=10&rank_icon=github" height="170" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vpraveen0501-cyber&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&text_color=c9d1d9&border_radius=10&langs_count=8" height="170" alt="Top Languages"/>
+<!-- Profile Summary Cards — more reliable for new accounts -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vpraveen0501-cyber&theme=tokyonight" width="100%" alt="Profile Summary"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vpraveen0501-cyber&theme=tokyonight" height="160" alt="Repos Per Language"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vpraveen0501-cyber&theme=tokyonight" height="160" alt="Most Commit Language"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vpraveen0501-cyber&theme=tokyonight" height="160" alt="Stats"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=vpraveen0501-cyber&theme=tokyonight&hide_border=true&background=0d1117&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF&sideLabels=6C63FF&dates=c9d1d9&border_radius=10&stroke=0d1117" height="170" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=vpraveen0501-cyber&theme=tokyonight&hide_border=true&background=0d1117&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF&sideLabels=6C63FF&dates=c9d1d9&border_radius=10" height="165" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vpraveen0501-cyber&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00D4FF&line=6C63FF&point=FF6B6B&area=true&area_color=6C63FF" alt="Contribution Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vpraveen0501-cyber&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00D4FF&line=6C63FF&point=FF6B6B&area=true" alt="Contribution Graph" width="100%"/>
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                   SNAKE CONTRIBUTION ANIMATION                       -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=vpraveen0501-cyber&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" alt="GitHub Trophies"/>
+
+</div>
+
+---
 
 ## 🐍 Contribution Snake
 
@@ -319,68 +228,46 @@ Investigated noise characteristics in double-gate MOS-HEMT semiconductor devices
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                        TROPHIES SECTION                              -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+## 📜 Certifications
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=vpraveen0501-cyber&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                       LANGUAGES SECTION                              -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-## 🌐 Languages
-
-| Language | Proficiency |
-|:---|:---|
-| 🇬🇧 English | Professional Working Proficiency |
-| 🇮🇳 Tamil | Native / Bilingual Proficiency |
+| Certification | Issuer | Date |
+|:---|:---|:---:|
+| 🏆 **Lean Six Sigma Green Belt (ICGB)** | HCLTech | Feb 2022 |
+| 🤖 **AI Face Detection using Python** | HCL GUVI | Apr 2021 |
+| 📊 **Business Analysis** | Simplilearn | Aug 2021 |
+| 🐍 **Python for Beginners** | Udemy | May 2021 |
+| 🔒 **Cisco Cybersecurity Specialist** | Cisco Networking Academy | Jun 2019 |
+| 🌐 **CCNA Routing & Switching** | Cisco Networking Academy | Jun 2019 |
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--               LINKEDIN SKILL ASSESSMENTS SECTION                     -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-## ✅ LinkedIn Skill Assessments Passed
+## ✅ LinkedIn Skill Assessments
 
 <div align="center">
 
 ![Java](https://img.shields.io/badge/Java-Passed-brightgreen?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-Passed-brightgreen?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-Passed-brightgreen?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-Passed-brightgreen?style=for-the-badge&logo=agile&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-Passed-brightgreen?style=for-the-badge)
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                         FOOTER SECTION                               -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
 ### 🤝 Let's Connect!
 
-_I'm always open to interesting conversations, collaboration opportunities, and new challenges._
+_Open to backend engineering roles, AI/ML collaborations, open-source contributions, and new challenges._
 
 <a href="https://www.linkedin.com/in/praveen-kumar-v-05011998/">
-  <img src="https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=vpraveen0501-cyber&style=for-the-badge&color=6C63FF" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=vpraveen0501-cyber&style=for-the-badge&color=6C63FF"/>
 
-<sub>⭐ From <a href="https://github.com/vpraveen0501-cyber">Praveen Kumar V</a></sub>
+<sub>⭐ <a href="https://github.com/vpraveen0501-cyber">vpraveen0501-cyber</a> · Built with ❤️ from Tamil Nadu, India</sub>
 
 </div>
