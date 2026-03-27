@@ -1,28 +1,25 @@
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                          HEADER SECTION                              -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- Animated Wave Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Praveen%20Kumar%20V&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Senior%20Analyst%20%7C%20Java%20%26%20Spring%20Boot%20Developer%20%7C%20SDE&descAlignY=55&descAlign=50&descSize=18" />
 
 <div align="center">
 
-# Hey there! 👋 I'm **Praveen Kumar V**
+<!-- Enhanced Typing Animation — 4 lines, bold, vivid purple -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=110&lines=🚀+Building+Scalable+Backend+Systems;☕+Java+%26+Spring+Boot+Specialist;🔒+Security+%7C+DevOps+%7C+Cloud+%7C+AWS;🎯+4%2B+Years+Enterprise+Software+Engineer" alt="Typing SVG" />
 
-### 🚀 Senior Analyst @ HCL Technologies | Java & Spring Boot Developer | SDE
+<br/>
 
+<!-- Social Badges -->
 <p>
-  <a href="https://www.linkedin.com/in/praveen-kumar-v-05011998"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/praveen-kumar-v-05011998/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
   <a href="mailto:vpraveen0501@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;
   <a href="https://github.com/vpraveen0501-cyber"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Building+Scalable+Backend+Systems+%F0%9F%92%BB;4%2B+Years+in+Enterprise+Software+Engineering+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
+<img src="https://komarev.com/ghpvc/?username=vpraveen0501-cyber&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                          ABOUT SECTION                               -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 ## 🧑‍💻 About Me
 
@@ -40,13 +37,23 @@ Passion    : Clean code, scalable architectures, and continuous improvement
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                        TECH STACK SECTION                            -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
+
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,r&theme=dark" />
+
+### 🧩 Frameworks & Cloud
+<img src="https://skillicons.dev/icons?i=spring,django,aws,docker&theme=dark" />
+
+### 🗄️ Databases & DevOps Tools
+<img src="https://skillicons.dev/icons?i=postgresql,git,github,linux,vscode&theme=dark" />
+
+### 🤖 AI / ML
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" />
+
+<br/>
 
 | **Category** | **Technologies** |
 |:---|:---|
@@ -61,10 +68,6 @@ Passion    : Clean code, scalable architectures, and continuous improvement
 </div>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                       EXPERIENCE SECTION                             -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 ## 💼 Professional Experience
 
@@ -109,10 +112,6 @@ Passion    : Clean code, scalable architectures, and continuous improvement
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                       EDUCATION SECTION                              -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
 ## 🎓 Education
 
 | Degree | Institution | Year | Grade |
@@ -126,10 +125,6 @@ Passion    : Clean code, scalable architectures, and continuous improvement
 **Notable Coursework:** Software Architecture · Software Security · Software Testing & QA · Advanced Database · Advanced OS · Machine Learning · UI Design · Requirements Engineering
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                       PROJECTS SECTION                               -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 ## 🔬 Featured Projects
 
@@ -186,10 +181,6 @@ Investigated noise characteristics in double-gate MOS-HEMT semiconductor devices
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                    CERTIFICATIONS SECTION                            -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
 ## 📜 Licenses & Certifications
 
 | Certification | Issuer | Date |
@@ -204,30 +195,36 @@ Investigated noise characteristics in double-gate MOS-HEMT semiconductor devices
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                      GITHUB STATS SECTION                            -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<!-- Replace vpraveen0501-cyber with your actual GitHub username -->
-<img src="https://github-readme-stats.vercel.app/api?username=vpraveen0501-cyber&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vpraveen0501-cyber&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&border_radius=10" height="170" alt="GitHub Stats"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vpraveen0501-cyber&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vpraveen0501-cyber&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9&border_radius=10" height="170" alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vpraveen0501-cyber&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=vpraveen0501-cyber&theme=tokyonight&hide_border=true&background=0d1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=6C63FF&dates=c9d1d9&border_radius=10" height="170" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<!-- GitHub Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vpraveen0501-cyber&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6C63FF&line=6C63FF&point=FF6B6B&area=true&area_color=6C63FF" alt="Contribution Graph" width="100%"/>
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                       LANGUAGES SECTION                              -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=vpraveen0501-cyber&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies"/>
+
+</div>
+
+---
 
 ## 🌐 Languages
 
@@ -237,10 +234,6 @@ Investigated noise characteristics in double-gate MOS-HEMT semiconductor devices
 | 🇮🇳 Tamil | Native / Bilingual Proficiency |
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--               LINKEDIN SKILL ASSESSMENTS SECTION                     -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 ## ✅ LinkedIn Skill Assessments Passed
 
@@ -255,22 +248,21 @@ Investigated noise characteristics in double-gate MOS-HEMT semiconductor devices
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                         FOOTER SECTION                               -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
 ### 🤝 Let's Connect!
 
 _I'm always open to interesting conversations, collaboration opportunities, and new challenges._
 
-<a href="https://www.linkedin.com/in/praveen-kumar-v-05011998"><img src="https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/praveen-kumar-v-05011998/"><img src="https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
----
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=vpraveen0501-cyber&style=for-the-badge&color=6C63FF" alt="Profile Views"/>
 
 <sub>⭐ From <a href="https://github.com/vpraveen0501-cyber">Praveen Kumar V</a></sub>
 
 </div>
+
+<!-- Animated Wave Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
