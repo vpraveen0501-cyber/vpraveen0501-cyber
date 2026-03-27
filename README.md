@@ -4,23 +4,38 @@
 
 <div align="center">
 
-# Hey there! 👋 I'm **Praveen Kumar V**
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&duration=1&pause=99999&color=6C63FF&center=true&vCenter=true&repeat=false&width=500&height=50&lines=Hey+there!+%F0%9F%91%8B+I'm+Praveen+Kumar+V" alt="Hey there! I'm Praveen Kumar V" />
 
-### 🚀 Senior Analyst @ HCL Technologies | Java & Spring Boot Developer | SDE
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=1&pause=99999&color=58A6FF&center=true&vCenter=true&repeat=false&width=700&height=30&lines=%F0%9F%9A%80+Senior+Analyst+%40+HCL+Technologies+%7C+Java+%26+Spring+Boot+Developer+%7C+SDE" alt="Role" />
 
-<!-- Typing Animation — 4 vivid lines, no emoji in URL params -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=110&lines=Building+Scalable+Backend+Systems+%F0%9F%92%BB;Java+%26+Spring+Boot+Specialist+%E2%98%95;Security+%7C+DevOps+%7C+Cloud+%7C+AWS+%F0%9F%94%92;4%2B+Years+Enterprise+Software+Engineer+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
+<br/>
+
+<!-- Animated Typing — cycling 4 lines with vivid cyan-purple colors -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=45&lines=Building+Scalable+Backend+Systems+%F0%9F%92%BB;Java+%26+Spring+Boot+Specialist+%E2%98%95;Security+%7C+DevOps+%7C+Cloud+%7C+AWS+%F0%9F%94%92;4%2B+Years+Enterprise+Software+Engineer+%E2%9A%99%EF%B8%8F;Clean+Code+%7C+Agile+%7C+Microservices+%F0%9F%94%A7" alt="Typing Animation" />
 
 <br/>
 
 <!-- Social Badges -->
 <p>
-  <a href="https://www.linkedin.com/in/praveen-kumar-v-05011998/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
-  <a href="mailto:vpraveen0501@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;
-  <a href="https://github.com/vpraveen0501-cyber"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/praveen-kumar-v-05011998/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>&nbsp;
+  <a href="mailto:vpraveen0501@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>&nbsp;
+  <a href="https://github.com/vpraveen0501-cyber">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=vpraveen0501-cyber&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" alt="Profile Views"/>
+<!-- Profile Views + Status badges -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=vpraveen0501-cyber&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" alt="Profile Views"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-Backend_Engineering-00D4FF?style=for-the-badge" alt="Focus"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Lives-India-FF6B6B?style=for-the-badge" alt="Lives"/>
+</p>
 
 </div>
 
@@ -40,6 +55,7 @@ Role       : Senior Software Analyst @ HCL Technologies
 Education  : M.E. Software Engineering (CEG, Anna University) | B.E. EEE
 Experience : 4+ Years in Enterprise Software Development & Quality Engineering
 Passion    : Clean code, scalable architectures, and continuous improvement
+Currently  : Building enterprise-grade Java/Spring Boot systems @ HCL
 ```
 
 > I'm a **proactive, result-oriented professional** specializing in Java and Spring Boot development. With 4+ years of experience spanning software development, quality assurance, and DevOps, I deliver reliable, high-performing products with a strong focus on customer satisfaction. I thrive in Agile environments and have a proven track record of on-time delivery and continuous process improvement.
@@ -54,17 +70,54 @@ Passion    : Clean code, scalable architectures, and continuous improvement
 
 <div align="center">
 
-### 💻 Languages
-<img src="https://skillicons.dev/icons?i=java,python,cpp,c,r&theme=dark" />
-
-### 🧩 Frameworks & Cloud
-<img src="https://skillicons.dev/icons?i=spring,django,aws,docker&theme=dark" />
-
-### 🗄️ Databases & Tools
-<img src="https://skillicons.dev/icons?i=postgresql,git,github,linux,vscode&theme=dark" />
-
-### 🤖 AI / ML
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" />
+<table>
+<tr>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=java&theme=dark" width="48"/><br/><sub><b>Java</b></sub>
+</td>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=python&theme=dark" width="48"/><br/><sub><b>Python</b></sub>
+</td>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=spring&theme=dark" width="48"/><br/><sub><b>Spring Boot</b></sub>
+</td>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=aws&theme=dark" width="48"/><br/><sub><b>AWS</b></sub>
+</td>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48"/><br/><sub><b>Docker</b></sub>
+</td>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=postgresql&theme=dark" width="48"/><br/><sub><b>PostgreSQL</b></sub>
+</td>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=git&theme=dark" width="48"/><sub><b>Git</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="48"/><br/><sub><b>C++</b></sub>
+</td>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=django&theme=dark" width="48"/><br/><sub><b>Django</b></sub>
+</td>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="48"/><br/><sub><b>TensorFlow</b></sub>
+</td>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="48"/><br/><sub><b>PyTorch</b></sub>
+</td>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=linux&theme=dark" width="48"/><br/><sub><b>Linux</b></sub>
+</td>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=github&theme=dark" width="48"/><br/><sub><b>GitHub</b></sub>
+</td>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48"/><br/><sub><b>VS Code</b></sub>
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -120,8 +173,7 @@ Passion    : Clean code, scalable architectures, and continuous improvement
 <td>
 
 **BSNL Certified Summer Vocational Training** &nbsp;·&nbsp; _May 2018 – Sep 2018_
-- Tamil Nadu, India
-- Networking, TCP/IP, and CCNA fundamentals
+- Tamil Nadu, India · Networking, TCP/IP, and CCNA fundamentals
 
 </td>
 </tr>
@@ -232,17 +284,36 @@ Investigated noise characteristics in double-gate MOS-HEMT semiconductor devices
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vpraveen0501-cyber&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&border_radius=10" height="170" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vpraveen0501-cyber&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00D4FF&icon_color=6C63FF&text_color=c9d1d9&border_radius=10&rank_icon=github" height="170" alt="GitHub Stats"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vpraveen0501-cyber&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9&border_radius=10" height="170" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vpraveen0501-cyber&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&text_color=c9d1d9&border_radius=10&langs_count=8" height="170" alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=vpraveen0501-cyber&theme=tokyonight&hide_border=true&background=0d1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=6C63FF&dates=c9d1d9&border_radius=10" height="170" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=vpraveen0501-cyber&theme=tokyonight&hide_border=true&background=0d1117&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF&sideLabels=6C63FF&dates=c9d1d9&border_radius=10&stroke=0d1117" height="170" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vpraveen0501-cyber&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6C63FF&line=6C63FF&point=FF6B6B&area=true&area_color=6C63FF" alt="Contribution Graph" width="100%"/>
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vpraveen0501-cyber&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00D4FF&line=6C63FF&point=FF6B6B&area=true&area_color=6C63FF" alt="Contribution Graph" width="100%"/>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                   SNAKE CONTRIBUTION ANIMATION                       -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vpraveen0501-cyber/vpraveen0501-cyber/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vpraveen0501-cyber/vpraveen0501-cyber/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/vpraveen0501-cyber/vpraveen0501-cyber/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
 
 </div>
 
@@ -302,9 +373,11 @@ Investigated noise characteristics in double-gate MOS-HEMT semiconductor devices
 
 _I'm always open to interesting conversations, collaboration opportunities, and new challenges._
 
-<a href="https://www.linkedin.com/in/praveen-kumar-v-05011998/"><img src="https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/praveen-kumar-v-05011998/">
+  <img src="https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
----
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=vpraveen0501-cyber&style=for-the-badge&color=6C63FF" alt="Profile Views"/>
 
