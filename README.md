@@ -195,11 +195,21 @@ Tamil Nadu · Networking, TCP/IP, CCNA fundamentals
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements & Highlights
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=vpraveen0501-cyber&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies"/>
+![Years at HCL](https://img.shields.io/badge/HCL_Technologies-4%2B_Years-0071CE?style=for-the-badge&logo=hcltech&logoColor=white)
+![ME Anna University](https://img.shields.io/badge/M.E._Software_Engineering-Anna_University-C41E3A?style=for-the-badge&logo=graduation-cap&logoColor=white)
+![Six Sigma](https://img.shields.io/badge/Lean_Six_Sigma-Green_Belt-00B140?style=for-the-badge&logoColor=white)
+![Cisco CCNA](https://img.shields.io/badge/Cisco-CCNA_Certified-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+
+<br/>
+
+![Repos](https://img.shields.io/badge/Public_Repos-12-6C63FF?style=for-the-badge&logo=github&logoColor=white)
+![Contributions](https://img.shields.io/badge/2026_Contributions-27+-00D4FF?style=for-the-badge&logo=git&logoColor=white)
+![Scaler](https://img.shields.io/badge/DSA_%26_System_Design-Scaler_Academy-FF6B6B?style=for-the-badge&logoColor=white)
+![Cisco Cybersecurity](https://img.shields.io/badge/Cisco-Cybersecurity_Specialist-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
 </div>
 
