@@ -18,7 +18,10 @@
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="32" width="42"/>
 </a>&nbsp;&nbsp;
 <a href="mailto:vpraveen0501@gmail.com" title="Gmail">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="32" width="42"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" height="32"/>
+</a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/praveen_vpk" target="_blank" title="Instagram">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="32" width="42"/>
 </a>
 
 <br/><br/>
@@ -284,7 +287,10 @@ _Open to backend engineering roles, AI/ML collaborations, open-source contributi
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="40" width="52"/>
 </a>&nbsp;&nbsp;&nbsp;
 <a href="mailto:vpraveen0501@gmail.com" title="Gmail">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="40" width="52"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" height="40"/>
+</a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/praveen_vpk" target="_blank" title="Instagram">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="52"/>
 </a>
 
 <br/><br/>
