@@ -10,6 +10,19 @@
 
 <br/>
 
+<!-- Social Icon Links -->
+<a href="https://www.linkedin.com/in/praveen-kumar-v-05011998/" target="_blank" title="LinkedIn">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="32" width="42"/>
+</a>&nbsp;&nbsp;
+<a href="https://github.com/vpraveen0501-cyber" target="_blank" title="GitHub">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="32" width="42"/>
+</a>&nbsp;&nbsp;
+<a href="mailto:vpraveen0501@gmail.com" title="Gmail">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="32" width="42"/>
+</a>
+
+<br/><br/>
+
 <p>
   <a href="https://www.linkedin.com/in/praveen-kumar-v-05011998/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -46,7 +59,7 @@ Interests  : Scalable Backend · Multi-Agent AI · Security Engineering · Open 
 Currently  : Building production-grade backend systems & AI-powered applications
 ```
 
-> **Proactive, result-oriented engineer** with 4+ years building enterprise-scale Java/Spring Boot systems at HCL Technologies. I design microservices, CI/CD pipelines, and AI-integrated backends. Passionate about clean code, security-first engineering, and developer tooling.
+> 🏢 **Senior Software Analyst @ HCL Technologies** — 4+ years engineering enterprise-grade **Java/Spring Boot** microservices, production CI/CD pipelines, and AI-powered backend systems deployed at scale. I bring together **distributed systems depth**, **security-first architecture** (AES-256-GCM · Argon2id · JWT · RBAC · zero-trust credential vaults), and **AI/ML integration** (LangGraph · multi-agent RAG · ChromaDB · Neo4j · Ollama) under one roof. Graduate of **Anna University** (M.E. Software Engineering · **8.89 GPA · Honors**) | **Lean Six Sigma Green Belt** (HCLTech) | Cisco **CCNA + Cybersecurity** Certified. I ship production-quality open-source tools at the intersection of backend performance, data privacy, and intelligent systems.
 
 ---
 
@@ -260,6 +273,21 @@ Tamil Nadu · Networking, TCP/IP, CCNA fundamentals
 ### 🤝 Let's Connect!
 
 _Open to backend engineering roles, AI/ML collaborations, open-source contributions, and new challenges._
+
+<br/>
+
+<!-- Social Platform Icons -->
+<a href="https://www.linkedin.com/in/praveen-kumar-v-05011998/" target="_blank" title="LinkedIn">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="52"/>
+</a>&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/vpraveen0501-cyber" target="_blank" title="GitHub">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="40" width="52"/>
+</a>&nbsp;&nbsp;&nbsp;
+<a href="mailto:vpraveen0501@gmail.com" title="Gmail">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="40" width="52"/>
+</a>
+
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/praveen-kumar-v-05011998/">
   <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
