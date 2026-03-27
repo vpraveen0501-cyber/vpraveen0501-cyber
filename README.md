@@ -20,16 +20,16 @@
 <a href="mailto:vpraveen0501@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" height="32"/>
 </a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/praveen_vpk" target="_blank" title="Instagram">
+<a href="https://www.instagram.com/praveen__vpk?igsh=M2dqcm9qbDkzOXJ1" target="_blank" title="Instagram">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="32" width="42"/>
+</a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/praveen.kumar.980326" target="_blank" title="Facebook">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook-alt.svg" alt="Facebook" height="32" width="42"/>
 </a>
 
 <br/><br/>
 
 <p>
-  <a href="https://www.linkedin.com/in/praveen-kumar-v-05011998/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>&nbsp;
   <a href="mailto:vpraveen0501@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>&nbsp;
@@ -289,8 +289,11 @@ _Open to backend engineering roles, AI/ML collaborations, open-source contributi
 <a href="mailto:vpraveen0501@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" height="40"/>
 </a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/praveen_vpk" target="_blank" title="Instagram">
+<a href="https://www.instagram.com/praveen__vpk?igsh=M2dqcm9qbDkzOXJ1" target="_blank" title="Instagram">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="52"/>
+</a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.facebook.com/praveen.kumar.980326" target="_blank" title="Facebook">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook-alt.svg" alt="Facebook" height="40" width="52"/>
 </a>
 
 <br/><br/>
